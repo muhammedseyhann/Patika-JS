@@ -8,7 +8,7 @@ Bu repoda Javascript patikası için yapılmış ödevlerin dosyaları bulunmakt
 
 **To Do List**
 
--   Javascript ile bir _"To Do List"_ oluşturuldu.
+-   Javascript ile bir _To Do List_ oluşturuldu.
 
 **Asian Kitchen's Menu**
 
